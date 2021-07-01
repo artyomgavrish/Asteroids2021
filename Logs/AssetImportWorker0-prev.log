@@ -1,0 +1,266 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'ru' Physical Memory: 32699 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Artyom/myUnityProject/Asteroids2021
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60840
+Successfully changed project path to: C:/Users/Artyom/myUnityProject/Asteroids2021
+C:/Users/Artyom/myUnityProject/Asteroids2021
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 18.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Artyom/myUnityProject/Asteroids2021/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001375 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.593 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.1 MB.
+System memory in use after: 60.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.495300 ms (FindLiveObjects: 0.192200 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.211300 ms  DeleteObjects: 0.044600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Starship
+  artifactKey: Guid(b18e3458f8213084b98959b6064a5333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Starship using Guid(b18e3458f8213084b98959b6064a5333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af86dada5b68699a16d3fc286cec2f7') in 0.006185 seconds
+  Import took 0.007596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.413820 seconds.
+  path: Assets/Prefabs/Starship/Low Poly Starship-SS01
+  artifactKey: Guid(2f2a936a95775bb4796943eaea9ec9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Starship/Low Poly Starship-SS01 using Guid(2f2a936a95775bb4796943eaea9ec9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec91ac5fe6130db723fdd401331c549') in 0.004878 seconds
+  Import took 0.006330 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 37.1 MB.
+System memory in use after: 37.2 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.274100 ms (FindLiveObjects: 0.123500 ms CreateObjectMapping: 0.037700 ms MarkObjects: 1.103700 ms  DeleteObjects: 0.008300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.324019 seconds.
+  path: Assets/Prefabs/Starship/Starship.prefab
+  artifactKey: Guid(6eb46d1ee8a209b458a37bb57e09713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Starship/Starship.prefab using Guid(6eb46d1ee8a209b458a37bb57e09713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612928e961e430caab7044d56d4d86a7') in 0.071413 seconds
+  Import took 0.073120 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.559 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 5.121200 ms (FindLiveObjects: 0.367000 ms CreateObjectMapping: 0.123000 ms MarkObjects: 4.587700 ms  DeleteObjects: 0.040200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.290260 seconds.
+  path: Assets/Prefabs/Asteroids Pack
+  artifactKey: Guid(ee0e06b8b915d5447a22adf2902dad1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids Pack using Guid(ee0e06b8b915d5447a22adf2902dad1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627b3c4069bf9aaee2805d5c88e682e0') in 0.007980 seconds
+  Import took 0.009810 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.562 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 1.416800 ms (FindLiveObjects: 0.133800 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.240900 ms  DeleteObjects: 0.009600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.969393 seconds.
+  path: Assets/Prefabs/Asteroids Pack/Asteroid Variant.prefab
+  artifactKey: Guid(2df8daa50f136c94c84c48af57b5a7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Asteroids Pack/Asteroid Variant.prefab using Guid(2df8daa50f136c94c84c48af57b5a7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d83f442ed82be125171bdce0e3578f3') in 0.065985 seconds
+  Import took 0.067686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.554 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1594.
+Total: 1.369500 ms (FindLiveObjects: 0.119300 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.209100 ms  DeleteObjects: 0.009500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.196422 seconds.
+  path: Assets/Prefabs/Starship/Starship.prefab
+  artifactKey: Guid(6eb46d1ee8a209b458a37bb57e09713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Starship/Starship.prefab using Guid(6eb46d1ee8a209b458a37bb57e09713f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bb558178fb015823c0fbe631ff1fb6') in 0.044989 seconds
+  Import took 0.046721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.723079 seconds.
+  path: Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab
+  artifactKey: Guid(98fe0711a57757841834f5d3575e660a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab using Guid(98fe0711a57757841834f5d3575e660a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9246ce6e92af173b9ebe247dac04a3a9') in 0.092591 seconds
+  Import took 0.094587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab
+  artifactKey: Guid(9a0c3383523899643a8d0661cfaca4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab using Guid(9a0c3383523899643a8d0661cfaca4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cfd00394d7713fde8fa1fee1017f1c') in 0.006859 seconds
+  Import took 0.008589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Smoke.prefab
+  artifactKey: Guid(abb24ded0744f70438da228264437774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Smoke.prefab using Guid(abb24ded0744f70438da228264437774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18fe6556e323730842b2b717a9048152') in 0.009223 seconds
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab
+  artifactKey: Guid(9a0c3383523899643a8d0661cfaca4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab using Guid(9a0c3383523899643a8d0661cfaca4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cfd00394d7713fde8fa1fee1017f1c') in 0.002905 seconds
+  Import took 0.004457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab
+  artifactKey: Guid(98fe0711a57757841834f5d3575e660a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab using Guid(98fe0711a57757841834f5d3575e660a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9246ce6e92af173b9ebe247dac04a3a9') in 0.006805 seconds
+  Import took 0.008531 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.561 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.378700 ms (FindLiveObjects: 0.139700 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.192000 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
